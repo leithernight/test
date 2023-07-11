@@ -1,0 +1,14 @@
+.flag4 {
+    height: 30px;
+    width: 30px;
+}
+
+.icon {
+    font-size: 40pt;
+    font-weight: bold;
+    background-color: rgb(8, 137, 197);
+    padding: 25px;
+    border-radius: 50%;
+    color: rgb(108, 29, 26);
+
+}
